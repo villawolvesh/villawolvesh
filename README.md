@@ -1,6 +1,6 @@
 # Hi, I'm Eduardo 👋
 
-**Analytics & Finance | Data Visualization | Business Insights**
+**FP&A Analyst | Business Planning, Forecasting & Executive Reporting | Python, Power BI, SQL | Data Visualization**
 
 Turning data into decisions — with Python, Power BI, and clean storytelling.
 
