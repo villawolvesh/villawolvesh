@@ -29,7 +29,7 @@ Live: https://villawolvesh.github.io/superstore-executive-dashboard
 - Open to roles in: Data Analytics, Business Intelligence, FP&A, Revenue Operations
 
 📫 **Let's connect**  
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-url)  
+[LinkedIn](https://www.linkedin.com/in/j-eduardo-villalobos-h/)  
 villawolvesh
 
 > "The goal is not to be busy. The goal is to be effective." — Me, probably
