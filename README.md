@@ -1,35 +1,36 @@
 # Hi, I'm Eduardo 👋
 
-**FP&A Analyst | Business Planning, Forecasting & Executive Reporting | Python, Power BI, SQL | Data Visualization**
+**Business Operations Analyst | Operations, Reporting & Process Improvement | Finance + Analytics background**
 
-Turning data into decisions — with Python, Power BI, and clean storytelling.
+I help businesses run better — bringing structure to operations, automating reporting, and turning data into clear decisions.
 
 ## Featured Projects
 
-### [Superstore Executive Dashboard](https://github.com/villawolvesh/superstore-executive-dashboard)
-**Python (pandas + matplotlib)** • Interactive 3-page HTML dashboard  
-→ Revenue trends, regional performance, quarterly analysis  
+### Superstore Executive Dashboard
+**Python (pandas + matplotlib)** • Interactive 3-page HTML dashboard <br>
+→ Revenue trends, regional performance, quarterly analysis <br>
 Live: https://villawolvesh.github.io/superstore-executive-dashboard
 
-### [ZARA Sales & Promotion Performance](https://github.com/villawolvesh/zara-sales-dashboard)
-**Power BI** • 2-page operational + financial dashboard  
+### ZARA Sales & Promotion Performance
+**Power BI** • 2-page operational + financial dashboard <br>
 → Promotion efficiency, product placement impact, seasonal patterns
 
-### [B2B Segment P&L Analysis (SMB / Mid-Market / Enterprise)](https://github.com/villawolvesh/b2b-segment-pnl)
-**Power BI** • 3-year financial model with YoY variance  
+### B2B Segment P&L Analysis (SMB / Mid-Market / Enterprise)
+**Power BI** • 3-year financial model with YoY variance <br>
 → Profitability by business unit, cost structure, growth drivers
 
 ## Skills
-- **Languages**: Python (pandas, matplotlib, seaborn), SQL, DAX
-- **Tools**: Power BI, Excel, GitHub
-- **Domains**: Retail analytics, SaaS financial modeling, promotion strategy
+
+- **Business:** Operational reporting, process improvement, business planning, forecasting, ROI analysis, stakeholder management
+- **Tools:** Power BI (DAX), Python (pandas, matplotlib, seaborn), SQL, Advanced Excel, SAP
+- **Domains:** Business operations, retail & commercial analytics, SaaS
 
 ## Currently
-- Building data products that drive business decisions
-- Open to roles in: Data Analytics, Business Intelligence, FP&A, Revenue Operations
 
-📫 **Let's connect**  
-[LinkedIn](https://www.linkedin.com/in/j-eduardo-villalobos-h/)  
-villawolvesh
+- Building reporting and automation that drive better business decisions
+- Open to roles in: **Business Operations, Operations Analytics, Strategy & Operations, Business Analysis**
+
+📫 **Let's connect**
+[LinkedIn](https://www.linkedin.com/in/j-eduardo-villalobos-h/) · villawolvesh
 
 > "The goal is not to be busy. The goal is to be effective." — Me, probably
